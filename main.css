@@ -1,0 +1,58 @@
+#container {
+  display: block;
+  background-color: darkgreen;
+}
+
+#at1 {
+  display: block;
+  width: 200px;
+  height: 150px;
+  transition: all 2s;
+}
+#at2 {
+  display: block;
+  width: 200px;
+  height: 150px;
+  transition: all 2s;
+}
+#at3 {
+  display: block;
+  width: 200px;
+  height: 150px;
+  transition: all 2s;
+}
+#at4 {
+  display: block;
+  width: 200px;
+  height: 150px;
+  transition: all 2s;
+}
+#at5 {
+  display: block;
+  width: 200px;
+  height: 150px;
+  transition: all 2s;
+}
+
+#final {
+  background-color: red;
+  width: 30px;
+  height: 553px;
+  float: right;
+  margin-right: 10px;
+  padding-top: 270px;
+  font-size: 40px;
+  text-align: center;
+}
+
+#btn,
+#sifirla {
+  margin: 20px;
+  text-align: center;
+  margin-top: 15px;
+  width: 180px;
+  height: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 20px;
+}
